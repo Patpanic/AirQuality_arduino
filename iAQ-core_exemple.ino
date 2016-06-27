@@ -12,7 +12,7 @@
 */
 
 #include "iAQ.h"   //Utiliser la bibliothèque de communication avec l'iAQ
-#include "sIAQDATA.h"
+#include "sIAQDATA.h"  //Utiliser une structure de données
 #include <Wire.h>
 
 
